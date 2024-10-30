@@ -27,3 +27,9 @@ def contando_emails():
 #APLICANDO FUNÇÕES
 logar()
 contando_emails()
+
+#ABRIR PLANILHA
+
+#ORGANIZAR ARQUIVOS
+
+#
