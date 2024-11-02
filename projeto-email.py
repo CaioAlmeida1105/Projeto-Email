@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-
 
 #ENTRAR NO E-MAIL
 
@@ -51,21 +49,4 @@ for num in email_ids:
 
 #LOGOUT DO E-MAIL
 meu_email.logout()
->>>>>>> Stashed changes
 
-#PROCURAR A PASTA
-
-
-#CONTAR QUANTOS E-MAILS NÃO LIDOS TEM NA PASTA
-
-
-#PEGAR A PLANILHA
-
-
-#REGISTRAR NA PLANILHA 
-
-
-#SEPARAR POR HORARIOS
-
-
-#REFAZER O PROCESSO NAS OUTRAS PASTAS
