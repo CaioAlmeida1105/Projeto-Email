@@ -1,7 +1,3 @@
-
-#ENTRAR NO E-MAIL
-
-=======
 #IMPORTANDO BIBLIOTECAS
 import imaplib as il
 from  datetime import datetime
